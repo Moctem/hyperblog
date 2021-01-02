@@ -8,5 +8,7 @@ Un blog increible para el curso de Git y Github de Platzi
 * El flujo de trabajo enn Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
+* Credo por increible Temok
+
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. 
